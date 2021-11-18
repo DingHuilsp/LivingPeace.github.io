@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：丁某
+#### 学历：西安电子科技大学本科
+#### 邮箱：2282008092@qq.com / 2282008092qq@gmail.com
+#### 专业：智能科学与技术
 
-You can use the [editor on GitHub](https://github.com/DingHuilsp/LivingPeace.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DingHuilsp/LivingPeace.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 荣誉奖励
+ - 大一学年一等奖学金
+ - 大二学年三等奖学金
+ - 第二十界全国大学生数学竞赛（非数学类）一等奖
+ - 大一学年“优秀共青团员”
+ 
+#### 性格特点
+ - 谦虚、谦卑
+ - 不是很爱学习，但会学习必要技能
+ - 喜欢仰望大佬
